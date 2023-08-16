@@ -11,10 +11,17 @@
 }
 
 .etch-div {
-    /*border: 1px solid black;*/
     margin: 0;
+    background-color: white;
 }
 
 .hover {
     background-color: gray;
+}
+
+.button-div {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
 }
